@@ -1,0 +1,32 @@
+﻿# CIFAR-10 数据集文件
+data/cifar-10-python.tar.gz
+data/cifar-10-batches-py/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 模型文件 (可选，如果文件太大)
+*.pth
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 环境
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
